@@ -1473,7 +1473,7 @@ id action_menu_presenter
 id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
-id action_settings
+id action_send_mail
 id action_text
 id actions
 id activity_chooser_view_content

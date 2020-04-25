@@ -1472,7 +1472,7 @@ int id action_menu_presenter 0x7f08003b
 int id action_mode_bar 0x7f08003c
 int id action_mode_bar_stub 0x7f08003d
 int id action_mode_close_button 0x7f08003e
-int id action_settings 0x7f08003f
+int id action_send_mail 0x7f08003f
 int id action_text 0x7f080040
 int id actions 0x7f080041
 int id activity_chooser_view_content 0x7f080042
