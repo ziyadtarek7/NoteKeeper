@@ -40,6 +40,10 @@
         "source": "C:\\Users\\Ziyadtarek\\AndroidStudioProjects\\NoteKeeper\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\Ziyadtarek\\AndroidStudioProjects\\NoteKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_note_list.xml.flat",
+        "source": "C:\\Users\\Ziyadtarek\\AndroidStudioProjects\\NoteKeeper\\app\\src\\main\\res\\layout\\item_note_list.xml"
+    },
+    {
         "merged": "C:\\Users\\Ziyadtarek\\AndroidStudioProjects\\NoteKeeper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Ziyadtarek\\AndroidStudioProjects\\NoteKeeper\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
@@ -60,12 +64,12 @@
         "source": "C:\\Users\\Ziyadtarek\\AndroidStudioProjects\\NoteKeeper\\app\\src\\main\\res\\navigation\\nav_graph.xml"
     },
     {
-        "merged": "C:\\Users\\Ziyadtarek\\AndroidStudioProjects\\NoteKeeper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Ziyadtarek\\AndroidStudioProjects\\NoteKeeper\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\Ziyadtarek\\AndroidStudioProjects\\NoteKeeper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\Ziyadtarek\\AndroidStudioProjects\\NoteKeeper\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ziyadtarek\\AndroidStudioProjects\\NoteKeeper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Ziyadtarek\\AndroidStudioProjects\\NoteKeeper\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\Ziyadtarek\\AndroidStudioProjects\\NoteKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_note_list.xml.flat",

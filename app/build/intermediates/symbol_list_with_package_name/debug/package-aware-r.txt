@@ -1490,6 +1490,7 @@ id blocking
 id bottom
 id buttonPanel
 id cancel_button
+id card_view
 id center
 id center_horizontal
 id center_vertical
@@ -1690,10 +1691,12 @@ id textEnd
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id text_course
 id text_input_end_icon
 id text_input_start_icon
 id text_note_text
 id text_note_title
+id text_title
 id textinput_counter
 id textinput_error
 id textinput_helper_text
@@ -1802,6 +1805,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout item_note_list
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
 layout mtrl_alert_dialog_title
